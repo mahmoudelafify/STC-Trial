@@ -44,7 +44,7 @@ Then, it was updated to the 7.0 version by Julius Network Solutions.
         "views/smstemplate_view.xml",
         "wizard/mass_sms_view.xml",
     ],
-    "auto_install": False,
+    "auto_install": True,
     "installable": True,
     "live_test_url":'https://youtu.be/xK2U9TESNe0',
     "images":['static/description/Banner.png'],
